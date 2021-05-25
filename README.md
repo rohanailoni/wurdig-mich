@@ -4,7 +4,6 @@
 <p align='center'><h3 align='center'>A College Sophomore, Fullstack Web/Mobile Developer. Developing End to End Apllications.<br></h3>
 	 <ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on Full-Stack/Flutter Projects. I am currently learning Blockchain Development </li>
-	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Current Project: <a href="https://recipes-appp.vercel.app/">Recipes</a> </li>
   <li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=20 width=20> 
 	<a href="https://twitter.com/messages/compose?recipient_id=2217720702&text=Hey%2C+Dev+%E2%9C%8C%F0%9F%8F%BB">Ask me </a>about Web Development 🕸.
 	</li>
