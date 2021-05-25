@@ -1,9 +1,10 @@
-<!-- <p align = 'center'></p>
+<p align = 'center'></p>
  <!-- img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro3.gif" alt="Intro GIF" width=100% -->
-<!-- <h2 align='center'>Hey there🙋🏻‍♂️</h2>
+<h2 align='center'>Hey there🙋🏻‍♂️, I am Harshit ✌🏻 </h2>
 <p align='center'><h3 align='center'>A College Sophomore, Fullstack Web/Mobile Developer. Developing End to End Apllications.<br></h3>
 	 <ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on Full-Stack/Flutter Projects. I am currently learning Blockchain Development </li>
+	<li><img src="https://media2.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height=20 width=20> Current Project: <a href="https://recipes-appp.vercel.app/">Recipes</a> </li>
   <li><img src="https://media.tenor.com/images/d42196c206f55c6576181fbb050106f0/tenor.gif" height=20 width=20> 
 	<a href="https://twitter.com/messages/compose?recipient_id=2217720702&text=Hey%2C+Dev+%E2%9C%8C%F0%9F%8F%BB">Ask me </a>about Web Development 🕸.
 	</li>
@@ -59,15 +60,13 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p> -->
+</p>
 
 
-<!-- <h3 align='center'>Connect with me  📫 </h3>
+<h3 align='center'>Connect with me  📫 </h3>
 <p align = 'center'>
 <a href = https://github.com/wurdig-mich target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg "Dev Sharma" height='45' weight='45' /></a>
 <a href = https://www.linkedin.com/in/harshit-kumar-1561b6182/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
 <a href = https://instagram.com/wurdig_mich target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 <br>
-</p> -->
-
- -->
+</p>
