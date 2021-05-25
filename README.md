@@ -1,6 +1,6 @@
 <!-- <p align = 'center'></p>
  <!-- img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro3.gif" alt="Intro GIF" width=100% -->
-<h2 align='center'>Hey there🙋🏻‍♂️</h2>
+<!-- <h2 align='center'>Hey there🙋🏻‍♂️</h2>
 <p align='center'><h3 align='center'>A College Sophomore, Fullstack Web/Mobile Developer. Developing End to End Apllications.<br></h3>
 	 <ul><strong>
 	<li><img src="https://css-tricks.com/wp-content/uploads/2015/03/flickity.gif" height=20 width=20> I’m usually working on Full-Stack/Flutter Projects. I am currently learning Blockchain Development </li>
@@ -59,7 +59,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 
 <!-- <h3 align='center'>Connect with me  📫 </h3>
