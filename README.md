@@ -62,11 +62,11 @@
 </p>
 
 
-<h3 align='center'>Connect with me  📫 </h3>
+<!-- <h3 align='center'>Connect with me  📫 </h3>
 <p align = 'center'>
 <a href = https://github.com/wurdig-mich target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg "Dev Sharma" height='45' weight='45' /></a>
 <a href = https://www.linkedin.com/in/harshit-kumar-1561b6182/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='45' weight='45'/></a> 
 <a href = https://instagram.com/wurdig_mich target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='45' weight='45'/></a>
 <br>
-</p>
+</p> -->
 
