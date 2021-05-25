@@ -1,4 +1,4 @@
-<p align = 'center'></p>
+<!-- <p align = 'center'></p>
  <!-- img src="https://raw.githubusercontent.com/cryptus-neoxys/cryptus-neoxys/master/Assets/GIFs/intro3.gif" alt="Intro GIF" width=100% -->
 <h2 align='center'>Hey there🙋🏻‍♂️</h2>
 <p align='center'><h3 align='center'>A College Sophomore, Fullstack Web/Mobile Developer. Developing End to End Apllications.<br></h3>
@@ -70,3 +70,4 @@
 <br>
 </p> -->
 
+ -->
